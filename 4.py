@@ -1,0 +1,6 @@
+n1=int(input("Input number 1 - "))
+n2=int(input("Input number 2 - "))
+print("Total is",n1+n2)
+print("Subtraction is",n1-n2)
+print("Multiplication is",n1*n2)
+print("Division is",n1/n2)
